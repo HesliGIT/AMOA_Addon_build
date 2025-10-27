@@ -2,6 +2,8 @@ READ ME
 
 Files in this repository can be used to build the C++ modules in the addon
 
+macOS / Linux modules are untested
+
 ```
 ## Advanced Material & Object Aligner (AMOA)
 
@@ -71,4 +73,5 @@ I'm Hesli Reiling, a 3D developer & designer focused on making our work in archi
 Thank you for trying out my addon! I hope it will save you a lot of time during your projects. Feel free to send me any questions or report problems you are experiencing with the Advanced Material & Object Aligner addon.
 
 ```
+
 
